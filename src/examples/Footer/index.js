@@ -60,7 +60,13 @@ function Footer({ company, links }) {
         fontSize={size.sm}
         px={1.5}
       >
-        &copy; {new Date().getFullYear()}, made with
+        &copy; {new Date().getFullYear()}, distributed by{" "}
+        <Link href="https://themewagon.com/" target="_blank">
+          <ArgonTypography variant="button" fontWeight="medium">
+            &nbsp;Themewagon&nbsp;
+          </ArgonTypography>
+        </Link>{" "}
+        , made with
         <ArgonBox fontSize={size.md} color="text" mb={-0.5} mx={0.25}>
           <Icon color="inherit" fontSize="inherit">
             favorite
