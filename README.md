@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/argon-dashboard-material-ui /)
+ - [Demo](https://themewagon.github.io/argon-dashboard-material-ui/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/argon-dashboard/)
