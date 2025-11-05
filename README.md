@@ -22,6 +22,6 @@ Designed & Developed by Creative Tim.
 
 ## License
 
- - Design and Code is Copyright &copy; [Untree.co](https://untree.co/)
+ - Design and Code is Copyright &copy; [Creativ Tim] (https://www.creative-tim.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
